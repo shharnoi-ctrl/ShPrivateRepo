@@ -2,14 +2,14 @@
 #include <type_traits>
 
 // Function that only accepts integral types
-template <typename T, typename = std::enable_if_t<std::is_integral_v<T>>>
+template <typename T, typename = std::enable_if_t<std::is_integral<T>>>
 T process_integral(T value) {
     std::cout << "Processing integral value: " << value << std::endl;
     return value;
 }
 
 // Function that only accepts floating-point types
-template <typename T, typename = std::enable_if_t<std::is_floating_point_v<T>>>
+template <typename T, typename = std::enable_if_t<std::is_floating_point<T>>>
 T process_floating_point(T value) {
     std::cout << "Processing floating-point value: " << value << std::endl;
     return value;
