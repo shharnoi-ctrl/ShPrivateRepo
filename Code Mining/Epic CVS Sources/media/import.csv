@@ -1,0 +1,23 @@
+﻿Epic,Module,Description
+CX3PMR-3757,Cfgcrc_async.cpp , HLR Decomposition from module:  \media\source\Cfgcrc_async.cpp
+CX3PMR-3757,Cfgcrcpub.cpp , HLR Decomposition from module:  \media\source\Cfgcrcpub.cpp
+CX3PMR-3757,Cfgmgr.cpp , HLR Decomposition from module:  \media\source\Cfgmgr.cpp
+CX3PMR-3757,Discover_dummy.cpp , HLR Decomposition from module:  \media\source\Discover_dummy.cpp
+CX3PMR-3757,Discovery.cpp , HLR Decomposition from module:  \media\source\Discovery.cpp
+CX3PMR-3757,Fdr.cpp , HLR Decomposition from module:  \media\source\Fdr.cpp
+CX3PMR-3757,Filecom.cpp , HLR Decomposition from module:  \media\source\Filecom.cpp
+CX3PMR-3757,Flashtun_wr_null.cpp , HLR Decomposition from module:  \media\source\Flashtun_wr_null.cpp
+CX3PMR-3757,Flashtun_wr.cpp , HLR Decomposition from module:  \media\source\Flashtun_wr.cpp
+CX3PMR-3757,Fspermission_null.cpp , HLR Decomposition from module:  \media\source\Fspermission_null.cpp
+CX3PMR-3757,Fstrfast.cpp , HLR Decomposition from module:  \media\source\Fstrfast.cpp
+CX3PMR-3757,HformatSD.cpp , HLR Decomposition from module:  \media\source\HformatSD.cpp
+CX3PMR-3757,Licdata.cpp , HLR Decomposition from module:  \media\source\Licdata.cpp
+CX3PMR-3757,Licsrc_null.cpp , HLR Decomposition from module:  \media\source\Licsrc_null.cpp
+CX3PMR-3757,Logctrl.cpp , HLR Decomposition from module:  \media\source\Logctrl.cpp
+CX3PMR-3757,Maint_mode_bl.cpp , HLR Decomposition from module:  \media\source\Maint_mode_bl.cpp
+CX3PMR-3757,Maint_mode_dummy.cpp , HLR Decomposition from module:  \media\source\Maint_mode_dummy.cpp
+CX3PMR-3757,Maint_mode_no_reset.cpp , HLR Decomposition from module:  \media\source\Maint_mode_no_reset.cpp
+CX3PMR-3757,PDI_loader.cpp , HLR Decomposition from module:  \media\source\PDI_loader.cpp
+CX3PMR-3757,Sampler.cpp , HLR Decomposition from module:  \media\source\Sampler.cpp
+CX3PMR-3757,Updatable_null.cpp , HLR Decomposition from module:  \media\source\Updatable_null.cpp
+CX3PMR-3757,Updaterx.cpp , HLR Decomposition from module:  \media\source\Updaterx.cpp

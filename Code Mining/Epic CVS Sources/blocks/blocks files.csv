@@ -1,0 +1,20 @@
+﻿Epic,Module,Description
+CX3PMR-3614,Accessiblepins.cpp , HLR Decomposition from module:  \blocks\source\Accessiblepins.cpp
+CX3PMR-3614,Blk_batch.cpp , HLR Decomposition from module:  \blocks\source\Blk_batch.cpp
+CX3PMR-3614,Blk_ifelse.cpp , HLR Decomposition from module:  \blocks\source\Blk_ifelse.cpp
+CX3PMR-3614,Blk_switch.cpp , HLR Decomposition from module:  \blocks\source\Blk_switch.cpp
+CX3PMR-3614,Blk_switch0.cpp , HLR Decomposition from module:  \blocks\source\Blk_switch0.cpp
+CX3PMR-3614,Blockmgr.cpp , HLR Decomposition from module:  \blocks\source\Blockmgr.cpp
+CX3PMR-3614,Blockprogram.cpp , HLR Decomposition from module:  \blocks\source\Blockprogram.cpp
+CX3PMR-3614,Blocktuntraits.cpp , HLR Decomposition from module:  \blocks\source\Blocktuntraits.cpp
+CX3PMR-3614,Cmdblockmgr.cpp , HLR Decomposition from module:  \blocks\source\Cmdblockmgr.cpp
+CX3PMR-3614,Cmdsubs.cpp , HLR Decomposition from module:  \blocks\source\Cmdsubs.cpp
+CX3PMR-3614,Dynrmatrix.cpp , HLR Decomposition from module:  \blocks\source\Dynrmatrix.cpp
+CX3PMR-3614,Dynrvector.cpp , HLR Decomposition from module:  \blocks\source\Dynrvector.cpp
+CX3PMR-3614,Iblock.cpp , HLR Decomposition from module:  \blocks\source\Iblock.cpp
+CX3PMR-3614,Ipin_ptr.cpp , HLR Decomposition from module:  \blocks\source\Ipin_ptr.cpp
+CX3PMR-3614,Ipin.cpp , HLR Decomposition from module:  \blocks\source\Ipin.cpp
+CX3PMR-3614,Libmgr.cpp , HLR Decomposition from module:  \blocks\source\Libmgr.cpp
+CX3PMR-3614,Pinmux.cpp , HLR Decomposition from module:  \blocks\source\Pinmux.cpp
+CX3PMR-3614,Pintypeid.cpp , HLR Decomposition from module:  \blocks\source\Pintypeid.cpp
+CX3PMR-3614,Switchmap.cpp , HLR Decomposition from module:  \blocks\source\Switchmap.cpp

@@ -1,0 +1,5 @@
+﻿Epic,Module,Description
+CX3PMR-3751,Aircraft.cpp , HLR Decomposition from module:  \dynamics\source\Aircraft.cpp
+CX3PMR-3751,Rigidbody.cpp , HLR Decomposition from module:  \dynamics\source\Rigidbody.cpp
+CX3PMR-3751,Rv3_precision_wrapper.cpp , HLR Decomposition from module:  \dynamics\source\Rv3_precision_wrapper.cpp
+CX3PMR-3751,Servo.cpp , HLR Decomposition from module:  \dynamics\source\Servo.cpp

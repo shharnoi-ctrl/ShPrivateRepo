@@ -1,0 +1,6 @@
+﻿Epic,Module,Description
+CX3PMR-3742,DFS2_fs.cpp , HLR Decomposition from module:  \DFS2\source\DFS2_fs.cpp
+CX3PMR-3742,DSF2_file.cpp , HLR Decomposition from module:  \DFS2\source\DSF2_file.cpp
+CX3PMR-3742,File_descr.cpp , HLR Decomposition from module:  \DFS2\source\File_descr.cpp
+CX3PMR-3742,Indexsector.cpp , HLR Decomposition from module:  \DFS2\source\Indexsector.cpp
+CX3PMR-3742,Partition.cpp , HLR Decomposition from module:  \DFS2\source\Partition.cpp

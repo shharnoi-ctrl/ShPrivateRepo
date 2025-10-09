@@ -1,0 +1,5 @@
+DFS2_fs.cpp , HLR Decomposition from module:  \DFS2\source\DFS2_fs.cpp
+DSF2_file.cpp , HLR Decomposition from module:  \DFS2\source\DSF2_file.cpp
+File_descr.cpp , HLR Decomposition from module:  \DFS2\source\File_descr.cpp
+Indexsector.cpp , HLR Decomposition from module:  \DFS2\source\Indexsector.cpp
+Partition.cpp , HLR Decomposition from module:  \DFS2\source\Partition.cpp

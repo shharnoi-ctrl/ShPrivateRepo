@@ -1,0 +1,9 @@
+﻿Epic,Module,Description
+CX3PMR-3643,aes_common.c , HLR Decomposition from module:  \crypto_c28\source\ti\aes_common.c
+CX3PMR-3643,aes_ctr.c , HLR Decomposition from module:  \crypto_c28\source\ti\aes_ctr.c
+CX3PMR-3643,ecc_util.c , HLR Decomposition from module:  \crypto_c28\source\ti\ecc_util.c
+CX3PMR-3643,memory_buffer_alloc.c , HLR Decomposition from module:  \crypto_c28\source\ti\memory_buffer_alloc.c
+CX3PMR-3643,mpi.c , HLR Decomposition from module:  \crypto_c28\source\ti\mpi.c
+CX3PMR-3643,sha256.c , HLR Decomposition from module:  \crypto_c28\source\ti\sha256.c
+CX3PMR-3643,yarrow.c , HLR Decomposition from module:  \crypto_c28\source\ti\yarrow.c
+CX3PMR-3643,Compute_hash.cpp , HLR Decomposition from module:  \crypto_c28\source\ti\Compute_hash.cpp

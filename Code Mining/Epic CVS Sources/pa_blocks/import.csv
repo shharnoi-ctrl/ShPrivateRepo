@@ -1,0 +1,19 @@
+﻿Epic,Module,Description
+CX3PMR-2452,Controllers_param_mk30.cpp,HLR Decomposition from module:  \pa_blocks\source\Controllers_param_mk30.cpp
+CX3PMR-2452,Delta_state.cpp,HLR Decomposition from module:  \pa_blocks\source\Delta_state.cpp
+CX3PMR-2452,Gnss_satellite_processor.cpp,HLR Decomposition from module:  \pa_blocks\source\Gnss_satellite_processor.cpp
+CX3PMR-2452,Land_state_machine.cpp,HLR Decomposition from module:  \pa_blocks\source\Land_state_machine.cpp
+CX3PMR-2452,Least_squares_single_shot_solution.cpp,HLR Decomposition from module:  \pa_blocks\source\Least_squares_single_shot_solution.cpp
+CX3PMR-2452,Marker_delivery_action.cpp,HLR Decomposition from module:  \pa_blocks\source\Marker_delivery_action.cpp
+CX3PMR-2452,Mission_readiness_wrapper.cpp,HLR Decomposition from module:  \pa_blocks\source\Mission_readiness_wrapper.cpp
+CX3PMR-2452,Mixer_allocation_data.cpp,HLR Decomposition from module:  \pa_blocks\source\Mixer_allocation_data.cpp
+CX3PMR-2452,Model_set_state.cpp,HLR Decomposition from module:  \pa_blocks\source\Model_set_state.cpp
+CX3PMR-2452,Modes_and_commands.cpp,HLR Decomposition from module:  \pa_blocks\source\Modes_and_commands.cpp
+CX3PMR-2452,Motor_performance.cpp,HLR Decomposition from module:  \pa_blocks\source\Motor_performance.cpp
+CX3PMR-2452,Nav_builder.cpp,HLR Decomposition from module:  \pa_blocks\source\Nav_builder.cpp
+CX3PMR-2452,Pseudojerk.cpp,HLR Decomposition from module:  \pa_blocks\source\Pseudojerk.cpp
+CX3PMR-2452,Recovery_controls_command_processor.cpp,HLR Decomposition from module:  \pa_blocks\source\Recovery_controls_command_processor.cpp
+CX3PMR-2452,Recovery_mode_transition_allowed.cpp,HLR Decomposition from module:  \pa_blocks\source\Recovery_mode_transition_allowed.cpp
+CX3PMR-2452,Turn_wbf_maneuver.cpp,HLR Decomposition from module:  \pa_blocks\source\Turn_wbf_maneuver.cpp
+CX3PMR-2452,Vehicle_state_checks.cpp,HLR Decomposition from module:  \pa_blocks\source\Vehicle_state_checks.cpp
+CX3PMR-2452,Vms_pds_calibration.cpp,HLR Decomposition from module:  \pa_blocks\source\Vms_pds_calibration.cpp

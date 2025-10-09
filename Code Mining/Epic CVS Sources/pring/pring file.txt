@@ -1,0 +1,3 @@
+gaussian.cpp , HLR Decomposition from module:  \pring\source\gaussian.cpp
+Prnd_xorshift32.cpp , HLR Decomposition from module:  \pring\source\Prnd_xorshift32.cpp
+Waterman14.cpp , HLR Decomposition from module:  \pring\source\Waterman14.cpp

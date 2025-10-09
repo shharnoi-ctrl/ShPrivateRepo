@@ -1,0 +1,17 @@
+﻿Epic,Module,Description
+CX3PMR-3755,Arcadest.cpp , HLR Decomposition from module:  \gnc\source\Arcadest.cpp
+CX3PMR-3755,Ctrl_pi_aw.cpp , HLR Decomposition from module:  \gnc\source\Ctrl_pi_aw.cpp
+CX3PMR-3755,Ctrl_pi.cpp , HLR Decomposition from module:  \gnc\source\Ctrl_pi.cpp
+CX3PMR-3755,Cyclest.cpp , HLR Decomposition from module:  \gnc\source\Cyclest.cpp
+CX3PMR-3755,Ekf1st.cpp , HLR Decomposition from module:  \gnc\source\Ekf1st.cpp
+CX3PMR-3755,Fft.cpp , HLR Decomposition from module:  \gnc\source\Fft.cpp
+CX3PMR-3755,Irainsld.cpp , HLR Decomposition from module:  \gnc\source\Irainsld.cpp
+CX3PMR-3755,Madgwick.cpp , HLR Decomposition from module:  \gnc\source\Madgwick.cpp
+CX3PMR-3755,Pidcfg.cpp , HLR Decomposition from module:  \gnc\source\Pidcfg.cpp
+CX3PMR-3755,Pidst.cpp , HLR Decomposition from module:  \gnc\source\Pidst.cpp
+CX3PMR-3755,Relay.cpp , HLR Decomposition from module:  \gnc\source\Relay.cpp
+CX3PMR-3755,Tangent_pll_base.cpp , HLR Decomposition from module:  \gnc\source\Tangent_pll_base.cpp
+CX3PMR-3755,Tangent_pll.cpp , HLR Decomposition from module:  \gnc\source\Tangent_pll.cpp
+CX3PMR-3755,Tsched.cpp , HLR Decomposition from module:  \gnc\source\Tsched.cpp
+CX3PMR-3755,Xrains.cpp , HLR Decomposition from module:  \gnc\source\Xrains.cpp
+CX3PMR-3755,Zn.cpp , HLR Decomposition from module:  \gnc\source\Zn.cpp
